@@ -1,4 +1,4 @@
-### SUBWAY PATCHER
+# SUBWAY PATCHER
 
 This tool can be used to add coins and keys to your subway subway surfer account.
 
