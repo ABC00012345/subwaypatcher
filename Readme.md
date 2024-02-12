@@ -9,5 +9,7 @@ This tool can be used to add coins and keys to your subway subway surfer account
 * App is in debug mode
 # ############
 
+![alt text]( "Title")
+
 # ADVANCED PURPOSES ONLY
 # IT IS AGAINST THE DEVELOPERS GUIDELINES!!!
